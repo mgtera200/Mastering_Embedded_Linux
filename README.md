@@ -1,6 +1,6 @@
 # Embedded Linux Program Repository
 
-Welcome to the **Embedded Linux Program Repository**. This repository encapsulates the culmination of knowledge and skills acquired during a rigorous 4-month program at the National Telecommunication Institute, focusing on embedded Linux development.
+Welcome to the **Embedded Linux Repository**. This repository encapsulates the culmination of knowledge and skills acquired during a rigorous 4-month program at the National Telecommunication Institute, focusing on embedded Linux development.
 
 ## Program Overview
 
